@@ -1,3 +1,3 @@
 locals {
-  ecr_name = "${terraform.workspace}-flaskapi"
+  ecr_name = "flaskapi"
 }
